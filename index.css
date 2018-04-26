@@ -1,0 +1,67 @@
+
+body{
+	background-color: #98bdf9;
+	font-family: Verdana;
+	background: url(img/030736.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: auto;
+}
+div.login{
+	margin: 90px auto auto;
+	width: 30%;
+	padding: 10px;
+
+}
+
+img.img{
+	width: 30%;
+	margin: auto;
+	display: block;
+
+}
+div.img{
+	position: relative;
+
+}
+
+form div.formlogin{
+    width: 100%;
+}
+.username input[type=username]{
+	width: 100%;
+    padding: 12px 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.password input[type=password]{
+    width: 100%;
+    padding: 12px 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.button button{
+
+}
+
+.login{
+	background-color: white;
+}
+
+button.button{
+	width: 50%;
+	background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
